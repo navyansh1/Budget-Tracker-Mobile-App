@@ -2,7 +2,6 @@
 iOS, Android, Web app using React Native and JS
 
 
-````md
 # 📊 MoneyTrack – AI Receipt Scanner & Expense Tracker
 
 MoneyTrack is a **cross-platform expense tracking app** built with **Expo (React Native)** that lets users **scan receipts using AI (Gemini Vision)** and automatically extract transaction details like merchant name, amount, category, date, currency, and payment method.
